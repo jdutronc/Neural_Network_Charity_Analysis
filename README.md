@@ -32,6 +32,6 @@ The target for the model performance was 75% but we were only able to achieve 72
 - What steps did you take to try and increase model performance?<br>
 I dropped the STATUS and SPECIAL_CONSIDERATIONS columns and increased the number of neurons and layers. I tried the linear and tanh activations, but the accuracy was quite poor and the loss quite high. The relu activation in the early layers and sigmoid activation in the 3rd and 4th layers yielded the best results.
 
-# Summary
+## Summary
 
 After increasing the number of layers and neurons our optimized model yielded a 72.55% accuracy. Our recommendation would be to try a different model such as the random forest classifier and possibly increase the number of epochs as well.
