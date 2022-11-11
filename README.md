@@ -22,8 +22,10 @@ The EIN and NAME columns will not increase the accuracy of the model and can be 
 In the optimized model, layer 1 started with 150 neurons with a relu activation. For layer 2, it dropped to 120 neurons and continued with the relu activation. From there, the sigmoid activation seemed to be the better fit for layers 3 (80 neurons) and layer 4 (40 neurons).
 <br><br>
 (click the image to enlarge)
-<br clear="right"/>
+<br clear="left"/>
 
 - Were you able to achieve the target model performance?
 
+
 - What steps did you take to try and increase model performance?
+
