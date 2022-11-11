@@ -18,7 +18,7 @@ The EIN and NAME columns will not increase the accuracy of the model and can be 
 ## Compiling, Training, and Evaluating the Model
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-<img align='leftt' src='Resources/Optimized_Model.png' height='200'>
+<img align='left' src='Resources/Optimized_Model.png' height='200'>
 In the optimized model, layer 1 started with 150 neurons with a relu activation. For layer 2, it dropped to 120 neurons and continued with the relu activation. From there, the sigmoid activation seemed to be the better fit for layers 3 (80 neurons) and layer 4 (40 neurons).
 <br><br>
 (click the image to enlarge)
