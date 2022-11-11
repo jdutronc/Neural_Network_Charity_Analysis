@@ -2,7 +2,9 @@
 
 ## Overview
 
-Alphabet Soup is a philantropic foundation dedicated to helping organizations that protect the environment, improve people's well-being and unify the world. They have raised and donated over $10B in the past 20 years, and they wish to investigate which organizations are worth donating to and which are too high-risk. With our knowledge of machine learning and neural networks, we will use the features in the provided dataset to help our friend Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. We have received a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years, and we'll need to preprocess the dataset in order to compile, train, and evaluate the neural network model.
+Alphabet Soup is a philantropic foundation dedicated to helping organizations that protect the environment, improve people's well-being and unify the world. They have raised and donated over $10B in the past 20 years, and they wish to investigate which organizations are worth donating to and which are too high-risk.
+
+With our knowledge of machine learning and neural networks, we will use the features in the provided dataset to help our friend Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. We have received a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years, and we'll need to preprocess the dataset in order to compile, train, and evaluate the neural network model.
 
 ## Data Preprocessing
 
