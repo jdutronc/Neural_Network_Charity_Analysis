@@ -26,10 +26,10 @@ In the optimized model, layer 1 started with 150 neurons with a relu activation.
 <br clear="left"/>
 <br>
 
-- Were you able to achieve the target model performance?
+- Were you able to achieve the target model performance?<br>
 The target for the model performance was 75% but we were only able to achieve 72.55%
 
-- What steps did you take to try and increase model performance?
+- What steps did you take to try and increase model performance?<br>
 I dropped the STATUS and SPECIAL_CONSIDERATIONS columns and increased the number of neurons and layers. I tried other activations like tanh, but the accuracy was quite poor and the loss quite high (the linear activation produced the worst accuracy). The relu activation in the early layers and sigmoid activation in the 3rd and 4th layers yielded the best results.
 
 
