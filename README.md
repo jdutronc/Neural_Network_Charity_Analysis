@@ -6,13 +6,13 @@ Alphabet Soup is a philantropic foundation dedicated to helping organizations th
 
 ## Data Preprocessing
 
-- What variable(s) are considered the target(s) for your model?
+- What variable(s) are considered the target(s) for your model?<br>
 We want to focus on organizations that have been successfully funded by Alphabet Soup, so that should be our target.
 
-- What variable(s) are considered to be the features for your model?
+- What variable(s) are considered to be the features for your model?<br>
 Therefore we are choosing the IS_SUCCESSFUL column as the feature for our model.
 
-- What variable(s) are neither targets nor features, and should be removed from the input data?
+- What variable(s) are neither targets nor features, and should be removed from the input data?<br>
 The EIN and NAME columns will not increase the accuracy of the model and can be removed to improve code efficiency.
 
 ## Compiling, Training, and Evaluating the Model
